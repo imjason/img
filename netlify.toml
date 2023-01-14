@@ -1,6 +1,6 @@
 [[redirects]]
   from = "/*"
-  to = "https://assets.qystudio.ml/:splat"
+  to = "https://backblaze.qystudio.workers.dev/:splat"
   status = 200
   force = true
   headers = {X-From = "Netlify"}
